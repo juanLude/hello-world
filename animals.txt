@@ -2,4 +2,4 @@ elephant
 giraffe
 bear
 duck
-tiger
+lion
