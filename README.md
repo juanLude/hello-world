@@ -4,3 +4,4 @@ Dog
 Cat
 Seal
 Seagull
+Bear
