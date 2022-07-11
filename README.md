@@ -5,3 +5,4 @@ Cat
 Seal
 Seagull
 Bear
+Hipopotamus
